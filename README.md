@@ -1,4 +1,4 @@
-# CalCentralServer — Framework used in lab1 (XcodeTutorial)
+# CalCentralServer — Framework used in lab1 (XcodeTutorial)
 
 ## Overview
 This framework will most likely need to be recompiled using the newest Swift version each semester. Simply,
